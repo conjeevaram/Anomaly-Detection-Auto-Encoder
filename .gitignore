@@ -1,0 +1,4 @@
+notes.txt
+
+# Ignore Python virtual environments
+.venv/
